@@ -1,0 +1,65 @@
+*CMD GIt Push*
+
+
+1: Creat a New folder
+2: Open cmd in folder
+3: Create a new repository in Github
+4: New repository Copy link 
+5: git clone [url past]
+6: cd [folder name]  (or cd .. [cd .. say back be awsaktay hy folder say])
+7: git add .
+8: git status
+9: git commit -m""
+10 git push
+
+
+
+
+
+
+
+
+*Git push*
+
+git config --global user.name <your user name>
+git config --global user.email <your email>
+
+
+git init 
+
+git status
+stage, commit(username, email and message)
+
+git add <file name>
+
+git commit -m "<message>"
+
+
+To see previous commits
+git log
+
+
+
+
+
+Branch related commands:
+git branch
+git branch <branch name>
+git checkout <branch name>
+
+To merge first come to parent branch
+git merge <branch name>
+
+
+
+
+
+
+git remote add origin <remoteURL>
+git push -u origin <branchName>
+
+
+
+git clone <repositoryURL>
+git pull
+
